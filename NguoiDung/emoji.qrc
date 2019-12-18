@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>EmojiOneFont.ttf</file>
+    </qresource>
+</RCC>
